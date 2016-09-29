@@ -1,4 +1,4 @@
-update=Thu 29 Sep 2016 10:36:15 AM CST
+update=Thu 29 Sep 2016 09:20:05 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../FairySpaceKicadParts
@@ -64,3 +62,5 @@ LibName32=FBF_SchematicParts
 LibName33=Oscillators
 LibName34=maxim
 LibName35=transf
+[general]
+version=1
