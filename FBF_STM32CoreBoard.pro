@@ -1,4 +1,4 @@
-update=Tue 27 Sep 2016 04:49:08 PM CST
+update=Thu 29 Sep 2016 10:36:15 AM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../FamousByFairy/FBF_Components;../FamousByFairy/FBF_Components
+LibDir=../FairySpaceKicadParts
 [eeschema/libraries]
 LibName1=power
 LibName2=device
